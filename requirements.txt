@@ -4,4 +4,4 @@ future==0.16.0
 newsapi-python==0.0.2
 pycricbuzz==2
 python-telegram-bot==9.0.0
-requests==2.13.0
+requests==2.20.0
